@@ -11,7 +11,7 @@
 <script>
 import search from '../services/search.js';
 
-export default {
+export default class RKS {
   data() {
     return {
       title: '',
